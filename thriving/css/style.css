@@ -589,11 +589,19 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 10px;
   border: 2px solid #fff;
   color: #fff;
+  background-color: transparent;
+  cursor: pointer;
 }
 
 #subscribe .subs-btn:hover {
   background: #2dc997;
   border: 2px solid #2dc997;
+}
+
+#subscribe .subs-btn:focus {
+  background: #2dc997;
+  border: 2px solid #2dc997;
+  outline: 0;
 }
 
 /* events Section
@@ -708,7 +716,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*===============================================================================
 styling for social media buttons starts
 ===============================================================================*/
-/* Style all font awesome icons */
+
 .fa {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -720,10 +728,9 @@ styling for social media buttons starts
     border-radius: 20%;
 }
 
-/* Add a hover effect if you want */
+
 .fa:hover {
     transform: scale(1.1);
-
 }
 /* Facebook */
 .fa-facebook {
