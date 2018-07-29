@@ -54,3 +54,7 @@ li {
 .bd:hover {
 	background-color: red;
 }
+
+.txtcol{
+	color: rgb(0,0,255);
+}

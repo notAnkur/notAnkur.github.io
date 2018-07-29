@@ -14,10 +14,12 @@ function addLiEvent() {
 	}
 }
 
+//list input length
 function inputLength() {
 	return input.value.length;
 }
 
+//click listener mouse
 function addOnMouse() {
 	if (inputLength() > 0) {
 		var li = document.createElement("li");
@@ -32,6 +34,7 @@ function addOnMouse() {
 	}
 }
 
+//key hit listener
 function addOnKey(event) {
 	if (inputLength() > 0 && event.keyCode === 13) {
 		var li = document.createElement("li");
@@ -47,11 +50,14 @@ function addOnKey(event) {
 	}
 }
 
+//"done" controller
 function toggleList(event) {
 	
 	event.target.classList.toggle("done");
 
 }
+
+//"X" button creation
 function abcd() {
 
 	var del = document.createElement("button");
@@ -65,11 +71,11 @@ function abcd() {
 	// }
 }
 
-// Function to delete li on DELETE button click
+//delete li on DELETE button click
 var deleteListItem = function() {
-	// Selects button's parent node, the li
+	// Selects button's parent node, "the li"
 	var liItem = event.target.parentNode;
-	// Selects the li's parent node, the div
+	// Selects the li's parent node, "the div"
 	var liParent = liItem.parentNode;
 	// Selects the div's parent node
 	var divParent = liParent.parentNode;
@@ -81,4 +87,5 @@ var deleteListItem = function() {
 button.addEventListener("click", addOnMouse);
 
 input.addEventListener("keydown", addOnKey);
+
 list2.addEventListener("click", toggleList);
