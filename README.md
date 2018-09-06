@@ -1,6 +1,6 @@
 # anantankur.github.io
-This where I store my side projects
-This site is under construction.
+
+Currently working on this site.
 
 Projects :-
 1) [Background generator(works fine with firefox)](https://anantankur.github.io/background-gen)
