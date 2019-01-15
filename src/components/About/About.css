@@ -1,0 +1,26 @@
+.blue-col {
+	color: #209cee;
+}
+
+.pro_img {
+    border-radius: 10%;
+    max-width: 300px;
+    max-height: 300px;
+    width:auto;
+    height: auto;
+}
+
+@media only screen and (max-width: 768px) {
+
+    /* .spl {
+        text-align: center;
+        align-content: center;
+    } */
+}
+
+@media only screen and (min-width: 768px) {
+
+    .spl {
+    	margin-left: 150px;
+    }
+}

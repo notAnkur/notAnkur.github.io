@@ -1,0 +1,125 @@
+.title-l{
+	font-size: 6em;
+}
+
+.title-m{
+	font-size: 2.4em;
+}
+
+.text-wrapper {
+    text-align: center;
+}
+
+.animated-words {
+    display: flex;
+    justify-content: center;
+}
+
+.animated-words span:nth-child(2) {
+    -webkit-animation-delay: 2s;
+    -ms-animation-delay: 2s;
+    animation-delay: 2s;
+    color: #ffffff;
+}
+.animated-words span:nth-child(3) {
+    -webkit-animation-delay: 4s;
+    -ms-animation-delay: 4s;
+    animation-delay: 4s;
+    color: #ffffff;
+}
+.animated-words span:nth-child(4) {
+    -webkit-animation-delay: 6s;
+    -ms-animation-delay: 6s;
+    animation-delay: 6s;
+    color: #ffffff;
+}
+
+
+.animated-words span {
+    position: absolute;
+    opacity: 0;
+    overflow: hidden;
+    color: #ffffff;
+    -webkit-animation: animateWord 8s linear infinite 0s;
+    -ms-animation: animateWord 8s linear infinite 0s;
+    animation: animateWord 8s linear infinite 0s;
+}
+
+@keyframes animateWord {
+    0% { opacity: 0; }
+    2% { opacity: 0; -webkit-transform: translateY(30px); }
+    5% { opacity: 1; -webkit-transform: translateY(0px);}
+    17% { opacity: 1; -webkit-transform: translateY(0px); }
+    20% { opacity: 0; -webkit-transform: translateY(-30px); }
+    80% { opacity: 0; }
+    100% { opacity: 0; }
+}
+
+.t-anim{
+	width: 100%;
+}
+
+.h-anim {
+        height: 2.4em;
+    }
+
+@media only screen{
+
+    .h-anim {
+        height: 3.5em;
+    }
+}
+
+@media only screen and (max-width: 510px) {
+
+    .h-anim {
+        height: 3.2em;
+    }
+}
+
+.nav-col {
+    /*below is purple*/
+    /*color: #1b39a8;*/
+
+    color:#ffc30f;
+    font-size: 1.1em;
+    font-family: arial;
+}
+
+.burger-col{
+    color: #000000;
+    border: 10px;
+}
+
+.is-active{
+    font-weight: bold;
+}
+
+.hero-bg {
+    background-color: rgba(27, 57, 168, 0.4);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 22%;
+}
+
+.hero-img {
+    background-image: url('../../assets/profile.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 10%;
+}
+
+.hero.is-info {
+    color: #ffc30f;
+}
+
+.header-radius {
+    border-radius: 0% 0% 15% 15%;
+}
+
+.top-margin-navbar {
+	margin-top: 15px;
+    size: 2em;
+}
