@@ -51,8 +51,13 @@ const Languages = () => {
 
 			      	<div className='column has-text-centered holdering skill-hover is-narrow right-marg'>
 			      		<img src={require('../../assets/mongodb.png')} alt='mongo' />
-			      		<div className="centered-mongo blinker">Learning!</div>
 			      		<h2><strong>Mongo</strong></h2>
+			      	</div>
+
+					<div className='column has-text-centered holdering skill-hover is-narrow right-marg'>
+			      		<img src={require('../../assets/blender.png')} alt='blender' />
+			      		<div className="centered-mongo blinker">Learning!</div>
+			      		<h2><strong>Blender</strong></h2>
 			      	</div>
 
 			      	<div className='column has-text-centered holdering skill-hover is-narrow right-marg'>

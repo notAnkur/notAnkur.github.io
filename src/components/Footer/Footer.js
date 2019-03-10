@@ -11,7 +11,7 @@ const Footer = () => {
 
 			    <div className="content has-text-centered">
 			      <p>
-			        <strong>Copyright &copy; 2018 Ankur Anant.</strong>
+			        <strong>Copyright &copy; {(new Date().getFullYear())} Ankur Anant.</strong>
 			      </p>
 			      <p>
 			    	  Developed using <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" className="r-link">React</a>

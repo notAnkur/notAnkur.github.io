@@ -35,13 +35,9 @@ class Navbar extends Component {
 				});
 
 
-
-
-
-
 		return(
 
-				<div>
+				<div className="has-text-centered">
 					<section className="hero is-info is-large header-radius hero-img" id="home">
 						  <div className="hero-head">
 						    <nav className="navbar is-fixed-top is-transparent">
@@ -57,31 +53,31 @@ class Navbar extends Component {
 					        	<div className="navbar-end nav-col top-margin-navbar">
 
 						          	<Scroll type="id" element="home" timeout={80}>
-							  			<a className="navbar-item onC is-active" id="homeId">
+							  			<a href="#home" className="navbar-item onC is-active" id="homeId">
 								            Home
 						            	</a>
 									</Scroll>
 
 					            	<Scroll type="id" element="about" timeout={80}>
-							  			<a className="navbar-item onC is-active" id="aboutId">
+							  			<a href="#about" className="navbar-item onC is-active" id="aboutId">
 											About
 							           	</a>
 									</Scroll>
 
 									<Scroll type="id" element="skills" timeout={80}>
-							  			<a className="navbar-item onC is-active" id="skillId">
+							  			<a href="#skills" className="navbar-item onC is-active" id="skillId">
 											Skills
 					           			</a>
 									</Scroll>
 
 									<Scroll type="id" element="proj" timeout={80}>
-							 			<a className="navbar-item onC is-active" id="projId">
+							 			<a href="#projects" className="navbar-item onC is-active" id="projId">
 											Projects
 					           			</a>
 									</Scroll>
 
 									<Scroll type="id" element="footerId" timeout={80}>
-							  			<a className="navbar-item onC is-active" id="contactId">
+							  			<a href="#contact" className="navbar-item onC is-active" id="contactId">
 											Contact
 					          			</a>
 									</Scroll>

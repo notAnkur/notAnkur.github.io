@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "TicTacToe",
+        "desc": "Basic android based game",
+        "repo": "https://github.com/anantankur/tic-tac-toe",
+        "role": "solo",
+        "stack": "Java",
+        "demo": null
+    },
+    {
+        "id": 2,
+        "name": "RoboFriends",
+        "desc": null,
+        "repo": "https://github.com/anantankur/robo",
+        "role": "solo",
+        "stack": "Reactjs",
+        "demo": "https://ankuranant.me/robo/"
+    },
+    {
+        "id": 3,
+        "name": "AdventOfCode",
+        "desc": "AOC submissions",
+        "repo": "https://github.com/anantankur/tic-tac-toe",
+        "role": "Contributor",
+        "stack": "Frontend: HTML, CSS, JS || Backend: nodejs, expressjs, mongoDB",
+        "demo": "https://zerotomastery.io/events/advent-of-code.html"
+    },
+    {
+        "id": 4,
+        "name": "Background Gradient Generator",
+        "desc": null,
+        "repo": "https://github.com/anantankur/background-color-generator",
+        "role": "solo",
+        "stack": "HTML, CSS, JS",
+        "demo": "https://ankuranant.me/background-color-generator/"
+    }
+]

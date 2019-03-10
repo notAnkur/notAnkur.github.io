@@ -96,7 +96,8 @@
 }
 
 .hero-bg {
-    background-color: rgba(27, 57, 168, 0.4);
+    /* background-color: rgba(27, 57, 168, 0.4); */
+	background-color: rgba(0, 0, 0, 0.4);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -105,14 +106,15 @@
 
 .hero-img {
     background-image: url('../../assets/profile.png');
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: 50% 10%;
 }
 
 .hero.is-info {
-    color: #ffc30f;
+    /* color: #ffc30f; */
+	color: #000000;
 }
 
 .header-radius {

@@ -20,7 +20,7 @@ class About extends Component{
 
 					{/*removed spl class from div below*/}
 					  <div className="column has-text-centered">
-						  <img className="pro_img" src={require("../../assets/profile-about.png")} alt='me' />
+						  <img className="pro_img" src={require("../../assets/profile.png")} alt='me' />
 					  </div>
 				  </div>
 				</div>
