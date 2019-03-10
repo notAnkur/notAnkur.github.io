@@ -12,7 +12,7 @@ const initializeReactGA = () => {
     ReactGA.initialize('UA-135887824-1');
     ReactGA.pageview('/homepage');
 }
-// initializeReactGA();
+initializeReactGA();
 
 class App extends Component {
 
