@@ -13,8 +13,11 @@ class About extends Component{
 					<h1 className="title blue-col">About</h1>
 					<div className="columns">
 					  <div className="column spl">
+					  	  <br />
 						  <p className="subtitle">
-						  	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mollis nunc sed id semper. Vitae justo eget magna fermentum iaculis eu non diam phasellus. Aliquam eleifend mi in nulla. Ultrices eros in cursus turpis massa tincidunt dui ut ornare. Porta lorem mollis aliquam ut. Duis at consectetur lorem donec. Aliquam etiam erat velit scelerisque. Eu augue ut lectus arcu bibendum at varius. Pretium nibh ipsum consequat nisl.
+						  	My name is Ankur Anant.
+							 I am currently a Fullstack web developer and on the path for my bachelor's degree in computer science.
+							 In my free time I like to learn new technologies and create projects.
 						  </p>
 					  </div>
 
