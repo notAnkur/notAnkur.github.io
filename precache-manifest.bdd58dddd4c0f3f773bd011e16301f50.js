@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0c86837cbb3bc0c7bc74",
+    "revision": "524d1794b05dbb702f7f",
     "url": "/static/css/main.9ba4bbcf.chunk.css"
   },
   {
-    "revision": "0c86837cbb3bc0c7bc74",
-    "url": "/static/js/main.0c86837c.chunk.js"
+    "revision": "524d1794b05dbb702f7f",
+    "url": "/static/js/main.524d1794.chunk.js"
   },
   {
     "revision": "1970b899a80392cc8c27",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/thrive.a3608af7.png"
   },
   {
-    "revision": "8e18b963d13d72cc48726896208dbf75",
+    "revision": "795b84c1c0e365a6a8b6d1087f8c07a2",
     "url": "/index.html"
   }
 ];
