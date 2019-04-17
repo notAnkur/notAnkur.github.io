@@ -72,3 +72,8 @@
 .right-marg {
     margin-right: 30px;
 }
+
+.lang-size {
+    width: 128px;
+    height: 128px;
+}

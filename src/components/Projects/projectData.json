@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "name": "TicTacToe",
-        "desc": "Basic android based game",
+        "name": "AdventOfCode",
+        "desc": "AOC submissions",
         "repo": "https://github.com/anantankur/tic-tac-toe",
-        "role": "solo",
-        "stack": "Java",
-        "demo": null
+        "role": "Contributor",
+        "stack": "Frontend: HTML, CSS, JS || Backend: nodejs, expressjs, mongoDB",
+        "demo": "https://zerotomastery.io/events/advent-of-code.html"
     },
     {
         "id": 2,
@@ -19,15 +19,33 @@
     },
     {
         "id": 3,
-        "name": "AdventOfCode",
-        "desc": "AOC submissions",
-        "repo": "https://github.com/anantankur/tic-tac-toe",
-        "role": "Contributor",
-        "stack": "Frontend: HTML, CSS, JS || Backend: nodejs, expressjs, mongoDB",
-        "demo": "https://zerotomastery.io/events/advent-of-code.html"
+        "name": "Multiplayer FPS",
+        "desc": "Multiplayer First Player Shooter (still in development). For now only works offline.",
+        "repo": "https://github.com/anantankur/MultiplayerFPS",
+        "role": "solo",
+        "stack": "C#, Unity3D",
+        "demo": null
     },
     {
         "id": 4,
+        "name": "Space Shooter",
+        "desc": "Arcade style top-down shooter",
+        "repo": "https://github.com/anantankur/SpaceShooter",
+        "role": "solo",
+        "stack": "C#, Unity3D",
+        "demo": null
+    },
+    {
+        "id": 5,
+        "name": "TicTacToe",
+        "desc": "Basic android based game",
+        "repo": "https://github.com/anantankur/tic-tac-toe",
+        "role": "solo",
+        "stack": "Java",
+        "demo": null
+    },
+    {
+        "id": 6,
         "name": "Background Gradient Generator",
         "desc": null,
         "repo": "https://github.com/anantankur/background-color-generator",
