@@ -56,10 +56,10 @@ const Languages = () => {
 
 			      	<div className='column has-text-centered holdering skill-hover is-narrow right-marg'>
 			      		<img className="lang-size" src={require('../../assets/mongodb.png')} alt='mongo' />
-			      		<h2><strong>Mongo</strong></h2>
+			      		<h2><strong>MongoDB</strong></h2>
 			      	</div>
 
-					<div className='column has-text-centered holdering skill-hover is-narrow right-marg'>
+							<div className='column has-text-centered holdering skill-hover is-narrow right-marg'>
 			      		<img className="lang-size" src={require('../../assets/blender.png')} alt='blender' />
 			      		<div className="centered-mongo blinker">Learning!</div>
 			      		<h2><strong>Blender</strong></h2>

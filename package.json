@@ -2,7 +2,7 @@
   "name": "port",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anantankur.github.io/",
+  "homepage": "https://ankuranant.me",
   "dependencies": {
     "@material-ui/core": "^3.3.2",
     "bulma": "^0.7.1",

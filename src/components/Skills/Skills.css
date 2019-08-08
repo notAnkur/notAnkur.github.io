@@ -25,13 +25,13 @@
 }
 
 @keyframes blinkingText{
-    0%{     color: #209cee;    }
-    5%{     color: #209cee;    }
-    10%{     color: #209cee;    }
-    15%{     color: #209cee;    }
-    49%{    color: transparent; }
-    50%{    color: transparent; }
-    100%{   color: #209cee;    }
+    0%      {     color: #209cee;    }
+    5%      {     color: #209cee;    }
+    10%     {     color: #209cee;    }
+    15%     {     color: #209cee;    }
+    49%     {    color: transparent; }
+    50%     {    color: transparent; }
+    100%    {   color: #209cee;    }
 }
 
 .holdering {
