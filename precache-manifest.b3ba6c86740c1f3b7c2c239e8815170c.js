@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f865bec2074e53d2c401",
-    "url": "/static/css/main.d16da417.chunk.css"
+    "revision": "e737fcfbe4c57fee3189",
+    "url": "/static/css/main.099c3995.chunk.css"
   },
   {
-    "revision": "f865bec2074e53d2c401",
-    "url": "/static/js/main.f865bec2.chunk.js"
+    "revision": "e737fcfbe4c57fee3189",
+    "url": "/static/js/main.e737fcfb.chunk.js"
   },
   {
     "revision": "1970b899a80392cc8c27",
@@ -40,6 +40,10 @@ self.__precacheManifest = [
     "url": "/static/media/mongodb.533b7fc2.png"
   },
   {
+    "revision": "c1c4f1b4c2afbc84e8e7c82a5df92a19",
+    "url": "/static/media/AR Shoe App.c1c4f1b4.png"
+  },
+  {
     "revision": "48bd49c12e4e0c5cab16939307036df6",
     "url": "/static/media/AdventOfCode.48bd49c1.png"
   },
@@ -52,10 +56,6 @@ self.__precacheManifest = [
     "url": "/static/media/Multiplayer FPS.95f66701.png"
   },
   {
-    "revision": "807f219ba004d8ed6186cc4ccd4635f4",
-    "url": "/static/media/RoboFriends.807f219b.png"
-  },
-  {
     "revision": "3c8c9b1766441788e205d60dd7e99fc1",
     "url": "/static/media/Space Shooter.3c8c9b17.png"
   },
@@ -64,11 +64,7 @@ self.__precacheManifest = [
     "url": "/static/media/TicTacToe.e0d80115.png"
   },
   {
-    "revision": "bf40fa8b6e3c4d092784eb714a68998c",
-    "url": "/static/media/thrive.bf40fa8b.png"
-  },
-  {
-    "revision": "12239f332ad75da21164a6a22dc29fca",
+    "revision": "b9678b84e998cee73b8556b99b2df0ab",
     "url": "/index.html"
   }
 ];
