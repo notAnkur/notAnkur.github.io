@@ -4,6 +4,7 @@ import Footer from './components/Footer/Footer.js';
 import About from './components/About/About.js';
 import Skills from './components/Skills/Skills.js';
 import Projects from './components/Projects/Projects.js';
+// import Cookie from './components/Cookie.js';
 import ReactGA from 'react-ga';
 import './App.css';
 

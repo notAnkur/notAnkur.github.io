@@ -76,6 +76,10 @@ class Navbar extends Component {
 					           			</a>
 									</Scroll>
 
+									<a href="https://notankur.artstation.com/" target='_blank' rel='noopener noreferrer' className="navbar-item onC is-active" id="projId">
+										3D Art
+									</a>
+
 									<Scroll type="id" element="footerId" timeout={80}>
 							  			<a href="#contact" className="navbar-item onC is-active" id="contactId">
 											Contact
@@ -98,7 +102,8 @@ class Navbar extends Component {
 								    <div className="animated-words title-m h-anim">
 								       	<span>Student</span>
 										<span>Full Stack Web Developer</span>
-								        <span>Aspiring Android Developer</span>
+										<span>3D Modeler</span>
+										<span>Aspiring 3D animator</span>
 								        <span>Making bots bleep bloop</span>
 								    </div>
 								</div>

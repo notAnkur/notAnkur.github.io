@@ -1,24 +1,15 @@
 [
     {
-        "id": 1,
-        "name": "AdventOfCode",
-        "desc": "AOC submissions",
-        "repo": "https://github.com/anantankur/tic-tac-toe",
+        "id": 0,
+        "name": "AR Shoe App",
+        "desc": "AR shoe app built with unity",
+        "repo": "https://github.com/anantankur/ByteHogs",
         "role": "Contributor",
-        "stack": "Frontend: HTML, CSS, JS || Backend: nodejs, expressjs, mongoDB",
-        "demo": "https://zerotomastery.io/events/advent-of-code.html"
+        "stack": "Unity3D",
+        "demo": null
     },
     {
-        "id": 2,
-        "name": "RoboFriends",
-        "desc": null,
-        "repo": "https://github.com/anantankur/robo",
-        "role": "solo",
-        "stack": "Reactjs",
-        "demo": "https://ankuranant.me/robo/"
-    },
-    {
-        "id": 3,
+        "id": 1,
         "name": "Multiplayer FPS",
         "desc": "Multiplayer First Player Shooter (still in development). For now only works offline.",
         "repo": "https://github.com/anantankur/MultiplayerFPS",
@@ -27,13 +18,31 @@
         "demo": null
     },
     {
-        "id": 4,
+        "id": 2,
+        "name": "AdventOfCode",
+        "desc": "AOC submissions",
+        "repo": "https://github.com/anantankur/tic-tac-toe",
+        "role": "Contributor",
+        "stack": "Frontend: HTML, CSS, JS || Backend: nodejs, expressjs, mongoDB",
+        "demo": "https://zerotomastery.io/events/advent-of-code.html"
+    },
+    {
+        "id": 3,
         "name": "Space Shooter",
         "desc": "Arcade style top-down shooter",
         "repo": "https://github.com/anantankur/SpaceShooter",
         "role": "solo",
         "stack": "C#, Unity3D",
         "demo": null
+    },
+    {
+        "id": 4,
+        "name": "Background Gradient Generator",
+        "desc": null,
+        "repo": "https://github.com/anantankur/background-color-generator",
+        "role": "solo",
+        "stack": "HTML, CSS, JS",
+        "demo": "https://ankuranant.me/background-color-generator/"
     },
     {
         "id": 5,
@@ -43,14 +52,5 @@
         "role": "solo",
         "stack": "Java",
         "demo": null
-    },
-    {
-        "id": 6,
-        "name": "Background Gradient Generator",
-        "desc": null,
-        "repo": "https://github.com/anantankur/background-color-generator",
-        "role": "solo",
-        "stack": "HTML, CSS, JS",
-        "demo": "https://ankuranant.me/background-color-generator/"
     }
 ]

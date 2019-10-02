@@ -23,7 +23,7 @@ class Contact extends Component{
                         <img className='social_icon marg' src={require("../../assets/linkedin.png")} alt="linkedin"/>
                     </a>
 
-                    <a  href='mailto:ankur@ankuranant.me?subject=Hi Ankur' target='_blank' rel= 'noopener noreferrer'>
+                    <a  href='mailto:hello@ankuranant.dev?subject=Hi Ankur' target='_blank' rel= 'noopener noreferrer'>
                         <img className='social_icon' src={require("../../assets/mail.png")} alt="email"/>
                     </a>
 
