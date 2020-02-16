@@ -3,7 +3,7 @@
         "id": 0,
         "name": "AR Shoe App",
         "desc": "AR shoe app built with unity",
-        "repo": "https://github.com/anantankur/ByteHogs",
+        "repo": "https://github.com/notAnkur/ByteHogs",
         "role": "Contributor",
         "stack": "Unity3D",
         "demo": null
@@ -12,7 +12,7 @@
         "id": 1,
         "name": "Multiplayer FPS",
         "desc": "Multiplayer First Player Shooter (still in development). For now only works offline.",
-        "repo": "https://github.com/anantankur/MultiplayerFPS",
+        "repo": "https://github.com/notAnkur/MultiplayerFPS",
         "role": "solo",
         "stack": "C#, Unity3D",
         "demo": null
@@ -21,16 +21,16 @@
         "id": 2,
         "name": "AdventOfCode",
         "desc": "AOC submissions",
-        "repo": "https://github.com/anantankur/tic-tac-toe",
+        "repo": "https://github.com/zeroDevs/Advent-Bot-Old",
         "role": "Contributor",
         "stack": "Frontend: HTML, CSS, JS || Backend: nodejs, expressjs, mongoDB",
-        "demo": "https://zerotomastery.io/events/advent-of-code.html"
+        "demo": "https://zero-to-mastery.github.io/zero-to-mastery-website/events/advent-of-code.html"
     },
     {
         "id": 3,
         "name": "Space Shooter",
         "desc": "Arcade style top-down shooter",
-        "repo": "https://github.com/anantankur/SpaceShooter",
+        "repo": "https://github.com/notAnkur/SpaceShooter",
         "role": "solo",
         "stack": "C#, Unity3D",
         "demo": null
@@ -39,7 +39,7 @@
         "id": 4,
         "name": "Background Gradient Generator",
         "desc": null,
-        "repo": "https://github.com/anantankur/background-color-generator",
+        "repo": "https://github.com/notAnkur/background-color-generator",
         "role": "solo",
         "stack": "HTML, CSS, JS",
         "demo": "https://ankuranant.me/background-color-generator/"
@@ -48,7 +48,7 @@
         "id": 5,
         "name": "TicTacToe",
         "desc": "Basic android based game",
-        "repo": "https://github.com/anantankur/tic-tac-toe",
+        "repo": "https://github.com/notAnkur/tic-tac-toe",
         "role": "solo",
         "stack": "Java",
         "demo": null

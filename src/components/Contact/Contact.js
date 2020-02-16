@@ -11,7 +11,7 @@ class Contact extends Component{
                 <div className="container has-text-centered">
 				    <h1 className="title blue-col">Contact</h1><br />
 
-                    <a  href='https://github.com/anantankur' target='_blank' rel='noopener noreferrer'>
+                    <a  href='https://github.com/notAnkur' target='_blank' rel='noopener noreferrer'>
                         <img className='social_icon marg' src={require("../../assets/github.png")} alt="github"/>
                     </a>
 
@@ -19,7 +19,7 @@ class Contact extends Component{
                         <img className='social_icon marg' src={require("../../assets/twitter.png")} alt="twitter"/>
                     </a>
 
-                    <a  href='https://www.linkedin.com/in/ankuranant' target='_blank' rel= 'noopener noreferrer'>
+                    <a  href='https://www.linkedin.com/in/notAnkur' target='_blank' rel= 'noopener noreferrer'>
                         <img className='social_icon marg' src={require("../../assets/linkedin.png")} alt="linkedin"/>
                     </a>
 
