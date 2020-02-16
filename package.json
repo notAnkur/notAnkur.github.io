@@ -8,7 +8,7 @@
     "bulma": "^0.7.1",
     "gh-pages": "^2.0.1",
     "merge": "^1.2.1",
-    "npm": "^6.4.1",
+    "npm": "^6.13.4",
     "react": "^16.4.1",
     "react-dom": "^16.7.0",
     "react-ga": "^2.5.7",
@@ -16,7 +16,7 @@
     "react-scroll-to-element": "^0.2.0",
     "really-smooth-scroll": "^2.1.1",
     "webpack-dev-server": "^3.1.14",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
