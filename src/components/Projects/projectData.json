@@ -1,17 +1,17 @@
 [
     {
         "id": 0,
-        "name": "AR Shoe App",
-        "desc": "AR shoe app built with unity",
-        "repo": "https://github.com/notAnkur/ByteHogs",
-        "role": "Contributor",
-        "stack": "Unity3D",
-        "demo": null
+        "name": "AccureMeetVR",
+        "desc": "VR meeting app",
+        "repo": "https://github.com/notAnkur/AccureMeetVR",
+        "role": "solo",
+        "stack": "Unity3D, PUN2, Photon Voice, GoogleVR, C#",
+        "demo": "https://www.youtube.com/watch?v=D8ceKNSR2BA"
     },
     {
         "id": 1,
         "name": "Multiplayer FPS",
-        "desc": "Multiplayer First Player Shooter (still in development). For now only works offline.",
+        "desc": "Multiplayer First Player Shooter (still in development).",
         "repo": "https://github.com/notAnkur/MultiplayerFPS",
         "role": "solo",
         "stack": "C#, Unity3D",
@@ -37,20 +37,20 @@
     },
     {
         "id": 4,
-        "name": "Background Gradient Generator",
-        "desc": null,
-        "repo": "https://github.com/notAnkur/background-color-generator",
+        "name": "Student Dashboard",
+        "desc": "Student dashboard",
+        "repo": "https://github.com/zeroDevs/student-dashboard-frontend",
         "role": "solo",
-        "stack": "HTML, CSS, JS",
-        "demo": "https://ankuranant.me/background-color-generator/"
+        "stack": "ReactJs, Redux, bulma(css framework)",
+        "demo": "https://dash.zerobot.xyz"
     },
     {
         "id": 5,
-        "name": "TicTacToe",
-        "desc": "Basic android based game",
-        "repo": "https://github.com/notAnkur/tic-tac-toe",
-        "role": "solo",
-        "stack": "Java",
+        "name": "AR Shoe App",
+        "desc": "AR shoe app built with unity",
+        "repo": "https://github.com/notAnkur/ByteHogs",
+        "role": "Contributor",
+        "stack": "Unity3D",
         "demo": null
     }
 ]
