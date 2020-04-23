@@ -99,6 +99,8 @@
 
 .is-active{
     font-weight: bold;
+    /* bad practice BUT IT WORKS */
+    color:#ffc30f !important;
 }
 
 .hero-bg {
